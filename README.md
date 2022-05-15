@@ -1,0 +1,1 @@
+Automatically get list of people who did/did not do chores (posted on Facebook group), automatically Venmo request via API those who did not do their chores.
